@@ -1,0 +1,1 @@
+# CreateJSのassetsを自動でまとめるgrunt

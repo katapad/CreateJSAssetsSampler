@@ -3,3 +3,6 @@ workspace.xml
 
 .idea
 dist
+*.iml
+
+src/flash/swf/
